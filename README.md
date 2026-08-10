@@ -55,7 +55,7 @@ Prediction / Estimation
 
 📈 Results
 
-The system was tested in real time and achieved approximately 40 FPS under normal conditions on the development computer.
+The system was tested in real time and achieved approximately 35 FPS under normal conditions on the development computer.
 
 The experiments included:
 
