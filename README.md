@@ -83,21 +83,37 @@ The project was developed on limited computational resources, making real-time p
 
 project/
 │
+
 ├── main.py
+
 ├── config.py
+
 ├── TIME.py
+
 ├── visualization.py
+
 │
+
 ├── vision/
+
 │   ├── segmentation.py
+
 │   └── contour.py
+
 │
+
 ├── tracker/
+
 │   └── KalmanTracker.py
+
 │
+
 ├── docs/
+
 │   └── presentation.pdf
+
 │
+
 └── README.md
 
 🚀 Installation
