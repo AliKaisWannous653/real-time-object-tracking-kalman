@@ -4,14 +4,13 @@ A real-time computer vision project combining color segmentation,
 contour analysis, and Kalman filtering for object tracking and prediction.
 
 <p align="center">
-  <img src="docs/images/tracking_demo.gif" width="750">
+  <img src="results/demo.gif" width="750">
 </p>
 
 ## 🎥 Project Videos
 
 - [5-minute Demo]([YOUR_LINK](https://www.youtube.com/watch?v=tAHP9uk7Mbc&t=1s))
 - [10-minute Project Presentation]([YOUR_LINK](https://www.youtube.com/watch?v=x6IYB1JJDP8&t=7s))
-- 
 
 🚀 Installation
 
