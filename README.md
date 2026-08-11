@@ -1,3 +1,6 @@
+![Uploading image.png…]()
+
+
 Real-Time Color-Based Object Tracking with Kalman Filter
 
 A real-time computer vision project for detecting and tracking a colored object using OpenCV, contour analysis, and a Kalman Filter.
