@@ -3,7 +3,7 @@
 A real-time computer vision project combining color segmentation,
 contour analysis, and Kalman filtering for object tracking and prediction.
 
-![Real-Time Kalman Tracking](results/demo.gif)
+![Real-Time Kalman Tracking](./results/demo.gif)
 
 
 ## 🎥 Project Videos
