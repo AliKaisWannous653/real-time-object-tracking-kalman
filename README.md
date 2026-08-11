@@ -9,8 +9,8 @@ contour analysis, and Kalman filtering for object tracking and prediction.
 
 ## 🎥 Project Videos
 
-- [5-minute Demo]([YOUR_LINK](https://www.youtube.com/watch?v=tAHP9uk7Mbc&t=1s))
-- [10-minute Project Presentation]([YOUR_LINK](https://www.youtube.com/watch?v=x6IYB1JJDP8&t=7s))
+- [5-minute Demo]([https://www.youtube.com/watch?v=tAHP9uk7Mbc&t=1s])
+- [10-minute Project Presentation]([https://www.youtube.com/watch?v=x6IYB1JJDP8&t=7s])
 
 🚀 Installation
 
